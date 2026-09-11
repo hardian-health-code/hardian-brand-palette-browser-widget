@@ -14,6 +14,8 @@ Simple Chrome-based widget for storing brand hex codes
 
 ## Usage
 
-Click the widget in your browser toolbar
-Click a colour hex code to automatically copy it to your clipboard
-Paste the hex code into any application or document as required
+- Left click the widget in your browser toolbar.
+- Left click a colour hex code from the list to automatically copy it to your clipboard.
+- Paste the hex code into any application or document as required.
+
+- You can also add additional hex codes to the widget using the Add function.
