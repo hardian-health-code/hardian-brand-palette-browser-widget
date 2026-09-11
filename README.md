@@ -5,7 +5,8 @@ Simple Chrome-based widget for storing brand hex codes
 
 ## Installation
 
- - Download all files (except for Brand widget.png which can be excluded), and place in a folder named 'Hardian Brand Palette' on your machine where it wont be moved/deleted.
+ - Download all files - click the <>Code drop-down (top right) in Github --> Download Zip
+ - Unzip the folder and rename EXACTLY to '**Hardian Brand Palette**' on your machine into a folder where it wont be moved/deleted.
  - Open Chrome / Brave and navigate to chrome://extensions/
  - Toggle Developer mode ON (top right corner).
  - Click Load unpacked (top left).
