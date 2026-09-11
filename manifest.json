@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Hardian Brand Palette",
+  "version": "1.0",
+  "description": "Quickly copy Hardian brand hex colors.",
+  "permissions": [
+    "storage"
+  ],
+  "icons": {
+    "128": "Circle Icon@2x.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Hardian Brand Palette",
+    "default_icon": {
+      "128": "Circle Icon@2x.png"
+    }
+  }
+}
